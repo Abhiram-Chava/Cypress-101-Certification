@@ -1,0 +1,14 @@
+{
+    "name":"Ritik",
+    "email":"lambdatest@pmail.com",
+    "password":"Password@123",
+    "company":"hw",
+    "website": "https://www.hw.com/",
+    "Country":"India",
+    "city":"Mumbai",
+    "address1": "Ghansoli",
+    "address2": "Teen Taki",
+    "state":"Maharashtra",
+    "zipcode":"400063",
+    "successMsg": "Thanks for contacting us, we will get back to you shortly."
+}
