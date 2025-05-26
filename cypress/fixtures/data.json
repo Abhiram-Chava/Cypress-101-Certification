@@ -1,14 +1,14 @@
 {
-    "name":"Ritik",
-    "email":"lambdatest@pmail.com",
+    "name":"Tara",
+    "email":"lambdatest@gmail.com",
     "password":"Password@123",
     "company":"hw",
     "website": "https://www.hw.com/",
     "Country":"India",
     "city":"Mumbai",
-    "address1": "Ghansoli",
-    "address2": "Teen Taki",
+    "address1": "airol",
+    "address2": "Garam masala",
     "state":"Maharashtra",
-    "zipcode":"400063",
+    "zipcode":"400062",
     "successMsg": "Thanks for contacting us, we will get back to you shortly."
 }
