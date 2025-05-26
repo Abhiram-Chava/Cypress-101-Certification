@@ -1,1 +1,1 @@
-# Ritik-Kumar-Jain-Cypress-101-Certificate
+# Cypress-101-Certificate
